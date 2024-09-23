@@ -26,7 +26,7 @@ Make sure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/Nandu-ramineni/Task-SmokeTrees.git
-   cd user-address-backend
+   cd backend
    ```
 
 2. **Install dependencies:**
